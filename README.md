@@ -1,14 +1,9 @@
-# Realtime Chat Applicaiton
-![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
+This is a Real time chat Application made using  
+## Reactjs
+## Nodejs
+## Socket.io 
 
-### [Live Site](https://realtime-chat-application.netlify.com)
+*WHat it does*? 
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
-
-In this video, we will create a full Realtime Chat Application. We're going to use  React on the front end, with NodeJS + Socket.io web socket library on the back end. 
-
-By the end of this video, you will have a strong understanding of how to send and receive messages using web sockets and Socket.io to make any real-time application.
-
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
+# Multiple people connected to a single server can chat in their room (using room ID) , it shows who is online and who joined the room
+# Due to use of socket.io , chatting becomes real fast
